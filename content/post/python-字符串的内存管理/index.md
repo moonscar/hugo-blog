@@ -3,6 +3,8 @@ title: Python 字符串的内存管理
 date: 2021-06-22T07:14:06.880Z
 draft: false
 featured: false
+categories:
+  - python
 image:
   filename: featured
   focal_point: Smart
